@@ -1,0 +1,17 @@
+body {
+    background: rgb(66, 66, 66)
+}
+
+#subtitle {
+    text-align: center;
+    font-family: 'Comic Sans MS','Arial';
+    font-size: 15px;
+    color: rgb(140, 140, 140);
+}
+
+#gaster {
+    text-align: center;
+    font-family: 'Wingdings','Arial';
+    font-size: 30px;
+    color: white;
+}
